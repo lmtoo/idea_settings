@@ -2,14 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="检查重复清单名称" type="PLAIN_TEXT" />
       <mapping pattern=".bookignore" type="PLAIN_TEXT" />
       <mapping pattern="V" type="PLAIN_TEXT" />
       <mapping pattern=".asdfs" type="PLAIN_TEXT" />
-      <mapping ext="1__init_schema" type="PLAIN_TEXT" />
+      <mapping pattern="检查重复清单名称" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="1__init_schema" type="PLAIN_TEXT" />
       <mapping ext="222" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
