@@ -2,6 +2,20 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="CheckForUpdate">
+          <value>
+            <ActionSummary>
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
