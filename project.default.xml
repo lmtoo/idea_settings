@@ -1,42 +1,14 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="DefaultGradleProjectSettings">
-        <option name="isMigrated" value="true" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="projectSyncType">
-          <map>
-            <entry key="E:/im-jiumian" value="PREVIEW" />
-            <entry key="F:/Civil/civil-api" value="PREVIEW" />
-            <entry key="F:/api-utils" value="PREVIEW" />
-            <entry key="F:/app-rest-client/app-rest-client" value="PREVIEW" />
-            <entry key="F:/im-api" value="PREVIEW" />
-            <entry key="F:/im-jiumian" value="PREVIEW" />
-            <entry key="F:/kotlin-examples/gradle/android-mixed-java-kotlin-project" value="PREVIEW" />
-            <entry key="F:/kotlin-examples/gradle/hello-world" value="PREVIEW" />
-            <entry key="F:/springjdbcextensions" value="PREVIEW" />
-            <entry key="F:/toolkit" value="PREVIEW" />
-            <entry key="G:/project-test/im" value="PREVIEW" />
-            <entry key="G:/springboot2" value="PREVIEW" />
-            <entry key="G:/tool-suite" value="PREVIEW" />
-            <entry key="G:/zy-api" value="PREVIEW" />
-          </map>
-        </option>
-      </component>
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-      </component>
-      <component name="YarnPnpManager">
-        <pnp-files />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
