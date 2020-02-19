@@ -1,0 +1,96 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077927851" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077940108" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Maven.Reimport">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581917350821" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Maven.ShowSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581917354735" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowProjectStructureSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581917333006" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581917328916" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WelcomeScreen.Settings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077891921" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WelcomeScreen.Update">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581917208671" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077905653" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077886676" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582077890725" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
