@@ -2,6 +2,22 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="About">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582107814281" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CloseAllEditorsButActive">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582107805745" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ConfigureIcs">
           <value>
             <ActionSummary>
@@ -74,6 +90,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582107788280" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
@@ -85,8 +109,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078165153" />
-              <option name="times" value="2" />
+              <option name="last" value="1582107791643" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
