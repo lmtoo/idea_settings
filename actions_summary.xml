@@ -13,8 +13,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582077940108" />
-              <option name="times" value="1" />
+              <option name="last" value="1582078099340" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -71,6 +71,22 @@
             <ActionSummary>
               <option name="last" value="1582077905653" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582078163445" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582078165153" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
