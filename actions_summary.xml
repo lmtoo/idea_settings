@@ -221,8 +221,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582383172385" />
-              <option name="times" value="4" />
+              <option name="last" value="1582383644418" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582382707028" />
-              <option name="times" value="2" />
+              <option name="last" value="1582383648682" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
