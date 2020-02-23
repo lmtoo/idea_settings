@@ -21,8 +21,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582080100390" />
-              <option name="times" value="5" />
+              <option name="last" value="1582438444810" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582436853707" />
-              <option name="times" value="161" />
+              <option name="last" value="1582438402878" />
+              <option name="times" value="162" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582434271897" />
-              <option name="times" value="6" />
+              <option name="last" value="1582438405399" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,32 +421,32 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582434337437" />
-              <option name="times" value="24" />
+              <option name="last" value="1582438224976" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582078251184" />
-              <option name="times" value="5" />
+              <option name="last" value="1582438943033" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582434276727" />
-              <option name="times" value="4" />
+              <option name="last" value="1582438407480" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582436940339" />
-              <option name="times" value="54" />
+              <option name="last" value="1582438414067" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
